@@ -21,7 +21,7 @@
 
 A Full-Stack Software Engineer, I am passionate about utilizing technology as a tool for positive change, with a background in Mechanical Engineering, Physics, and IT Consulting.
 
-See [my website](#) for more information!
+See [my website](https://annakimdev.netlify.app/) for more information!
 
 
 <h1 align="center">Projects</h1>

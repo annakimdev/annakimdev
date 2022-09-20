@@ -29,7 +29,7 @@ See [my website](https://annakimdev.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Project 1</h3>
+      <h3 align="center">Sight Numbers</h3>
         <br />
         <a target="_blank" href="https://sightnumbers.netlify.app/">
             <img src="https://i.ibb.co/p2kdxVM/sight-numbers-demo.gif" width="100%" alt="App Name"/>
@@ -37,70 +37,70 @@ See [my website](https://annakimdev.netlify.app/) for more information!
         <br />
         <p align="center">
           
-  <a href="#urlGithub" target="_blank">
+  <a href="https://github.com/annakimdev/sightnumbers" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="#urlWebsite" target="_blank">
+  <a href="https://sightnumbers.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build ...! [App Name] ...!</p>
+        <p><strong>HTML, CSS, Javascript</strong> - Educational website for Preschoolers to learn numbers by sight and hearing in English and a different language of choice.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Project 2</h3>
+      <h3 align="center">Peniel Skincare</h3>
         <br />
-      <a target="_blank" href="#url">
+      <a target="_blank" href="https://penielskincare.netlify.app/">
             <img src="#gif" width="100%"  alt="App Name"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="#urlGithub" target="_blank">
+  <a href="https://github.com/annakimdev/peniel-skincare" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="#urlWebsite" target="_blank">
+  <a href="https://penielskincare.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The short description...</p>
+        <p><strong>HTML, CSS, Javascript</strong> - Simple and elegant website for a medical spa in Bergen County NJ.</p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Project 3</h3>
+      <h3 align="center">Paintings by Layers</h3>
       <br />
-        <a target="_blank" href="#url">
+        <a target="_blank" href="https://artbylayers.netlify.app/">
           <img src="#gif" width="100%" alt="App Name"/>
         </a>
       <br />
         <p align="center">
-  <a href="#urlGithub" target="_blank">
+  <a href="https://github.com/annakimdev/artist-layers-portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="#urlWebsite" target="_blank">
+  <a href="https://artbylayers.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Another Site description....</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio for oil painting artist. Immersive website utilizing full-screen images.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Project 4</h3>
+      <h3 align="center">Appointy</h3>
         <br />
-        <a target="_blank" href="#url">
+        <a target="_blank" href="https://appointy-mvc-auth-1.annakim29.repl.co/">
           <img src="#gif" width="100%" alt="App Name"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="#urlGithub" target="_blank">
+  <a href="https://github.com/annakimdev/appointment-mvc-auth" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="#urlWebsite" target="_blank">
+  <a href="https://appointy-mvc-auth-1.annakim29.repl.co/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Another description...!</p>
+        <p><strong>Javascript, Node.js, & Express.js</strong> - A simple appointment app built using the MVC Architecture. Users can sign up and keep track of their appointments.</p>
     </td>
   </tr>
 </table>

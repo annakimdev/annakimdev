@@ -2,16 +2,16 @@
 <img src="https://i.ibb.co/0Z4wnB2/anna-maste-banner-border.jpg" width="100%">
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="annakimdev.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/annakimdev/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://twitter.com/annakim_dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://angel.co/u/annakimdev" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
   <a href="#" target="_blank">
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-A Full-Stack Software Engineer, I am passionate about utilizing technology as a tool for positive change, with a background in Mechanical Engineering, Physics, and IT Consulting.
+A Full-Stack Software Engineer, I am passionate about utilizing technology as a tool for positive change, with a background in Mechanical Engineering and IT Consulting.
 
 See [my website](https://annakimdev.netlify.app/) for more information!
 
@@ -31,8 +31,8 @@ See [my website](https://annakimdev.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Project 1</h3>
         <br />
-        <a target="_blank" href="#url">
-            <img src="#gif" width="100%" alt="App Name"/>
+        <a target="_blank" href="https://sightnumbers.netlify.app/">
+            <img src="https://i.ibb.co/p2kdxVM/sight-numbers-demo.gif" width="100%" alt="App Name"/>
         </a>
         <br />
         <p align="center">

@@ -32,7 +32,7 @@ See [my website](https://annakimdev.netlify.app/) for more information!
       <h3 align="center">Sight Numbers</h3>
         <br />
         <a target="_blank" href="https://sightnumbers.netlify.app/">
-            <img src="https://i.ibb.co/p2kdxVM/sight-numbers-demo.gif" width="100%" alt="App Name"/>
+            <img src="https://i.ibb.co/p2kdxVM/sight-numbers-demo.gif" width="100%" alt="Sight Numbers"/>
         </a>
         <br />
         <p align="center">
@@ -50,7 +50,8 @@ See [my website](https://annakimdev.netlify.app/) for more information!
       <h3 align="center">Peniel Skincare</h3>
         <br />
       <a target="_blank" href="https://penielskincare.netlify.app/">
-            <img src="https://i.ibb.co/PjfvLyr/peniel-skin-demo.gif" width="100%"  alt="App Name"/>
+            <!-- <img src="https://i.ibb.co/PjfvLyr/peniel-skin-demo.gif" width="100%"  alt="App Name"/> -->
+            <img src="/assets/peniel-skin-demo.gif" width="100%"  alt="Peniel Skincare"/>
         </a>
         <br />
         <p align="center">
@@ -71,7 +72,8 @@ See [my website](https://annakimdev.netlify.app/) for more information!
       <h3 align="center">Paintings by Layers</h3>
       <br />
         <a target="_blank" href="https://artbylayers.netlify.app/">
-          <img src="https://i.ibb.co/qYRdm0P/paintings-by-layers-demo-2.gif" width="100%" alt="App Name"/>
+          <!-- <img src="https://i.ibb.co/qYRdm0P/paintings-by-layers-demo-2.gif" width="100%" alt="App Name"/> -->
+          <img src="/assets/paintings-by-layers-demo-2.gif" width="100%" alt="Paintings by Layers"/>
         </a>
       <br />
         <p align="center">
@@ -88,7 +90,7 @@ See [my website](https://annakimdev.netlify.app/) for more information!
       <h3 align="center">Appointy</h3>
         <br />
         <a target="_blank" href="https://appointy-mvc-auth-1.annakim29.repl.co/">
-          <img src="https://i.ibb.co/F020MGy/appointy-demo.gif" width="100%" alt="App Name"/>
+          <img src="https://i.ibb.co/F020MGy/appointy-demo.gif" width="100%" alt="Appointy"/>
         </a>
         <br />
         <p align="center">
